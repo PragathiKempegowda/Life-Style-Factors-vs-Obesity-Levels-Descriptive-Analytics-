@@ -1,25 +1,19 @@
-Lifestyle vs Obesity Levels Analysis
-This repository contains a data visualization project analyzing the relationship between lifestyle factors and obesity levels.
+## 📊 Lifestyle vs Obesity Levels Analysis
+This repository contains a data visualization project analyzing the relationship between lifestyle factors and obesity levels using R programming.
 
-Overview
-The project provides an interactive dashboard that allows users to explore how various lifestyle choices impact obesity rates. The visualization was created as part of a descriptive analysis project by Group 6.
+## ℹ️ Overview
+This study explores the relationships between various factors and obesity levels, analyzing data from a comprehensive dataset of 2,111 individuals from Mexico, Peru, and Colombia.
+The dataset includes 17 attributes related to eating habits and physical condition, with records labeled under the class variable NObesity (Obesity Level).
+**The research mainly focuses on:**
+1. What is the relationship between calorie monitoring and obesity levels?
+2. How does the frequency of physical activity impact obesity levels?
+3. How does alcohol consumption relate to obesity levels?
+4. How does age impact obesity levels?
 
-Features
-Interactive charts and graphs
+## Dataset Used
+**UC Irvine Machine Learning Repository (2019): Estimation of Obesity Levels Based On Eating Habits and Physical Condition.**
+https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
-Responsive design for different screen sizes
-
-Dynamic filtering options
-
-Comprehensive obesity metrics visualization
-
-Lifestyle factor comparisons
-
-Technologies Used
-HTML5 - Page structure
-
-CSS - Styling and layout
-
-JavaScript - Interactive functionality
-
-jQuery (v3.6.0) - DOM manipulation and event handling
+## 🧠Technologies Used
+**Programming** - R
+**Statistical Tests** - Chi-Squared tests and ANOVA
