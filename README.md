@@ -15,5 +15,5 @@ The dataset includes 17 attributes related to eating habits and physical conditi
 https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition
 
 ## 🧠Technologies Used
-**Programming** - R
-**Statistical Tests** - Chi-Squared tests and ANOVA
+1. **Programming** - R
+2. **Statistical Tests** - Chi-Squared tests and ANOVA
