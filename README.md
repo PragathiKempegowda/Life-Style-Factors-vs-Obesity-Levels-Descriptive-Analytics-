@@ -4,6 +4,7 @@ This repository contains a data visualization project analyzing the relationship
 ## ℹ️ Overview
 This study explores the relationships between various factors and obesity levels, analyzing data from a comprehensive dataset of 2,111 individuals from Mexico, Peru, and Colombia.
 The dataset includes 17 attributes related to eating habits and physical condition, with records labeled under the class variable NObesity (Obesity Level).
+
 **The research mainly focuses on:**
 1. What is the relationship between calorie monitoring and obesity levels?
 2. How does the frequency of physical activity impact obesity levels?
